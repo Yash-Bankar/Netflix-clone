@@ -121,6 +121,7 @@ nav {
     padding: 8px;
     border-radius: 5px;
     font-weight: 900;
+    border-width: 0px;
 }
 
 .trending-section {
@@ -292,7 +293,7 @@ color: white;
 @media only screen and (max-width: 800px) {
   .email2 {
     width: 100%;
-    margin-right: 0;
+    
   }
 
   .search > :nth-child(2) {
@@ -303,9 +304,81 @@ color: white;
   }
 
   .started {
-    width: 100%;
+    width: 80%;
     text-align: center;
   }
+
+  .email{
+    width: 80vw;
+    margin-bottom: 5px;
+
+  }
+
+  .enter> :nth-child(1) {
+    font-size: 40px;
+    font-weight: 900;
+    max-width: 95vw;
+}
+
+.enter> :nth-child(2) {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.enter> :nth-child(3) {
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.gri{
+    font-size: small ;
+}
+
+.card1{
+    width: 70px;
+    height: 160px;
+    position: relative;
+    background: linear-gradient(135deg, #0f0f1a, #1b0e27);
+  border-radius: 20px;
+  padding: px;
+  color: white;
+
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  position: relative;
+  font-size: 8px;
+
+    
+}
+
+.card1 div svg{
+    width: 30px;
+}
+
+.ele{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 5px;
+    
+}
+
+.logo{
+    width: 70px;
+}
+
+nav .eng{
+    width: 70px;
+    font-size: 8px;
+}
+
+nav{
+    max-width: 90vw;
+}
+
+nav .sign{
+    width: 70px;
+    font-size: 8px;
+}
 }
 
 .grey{
