@@ -39,3 +39,10 @@ A responsive **Netflix web homepage clone** built with pure **HTML & CSS**, mimi
 1. Clone the repository:
    ```bash
    https://github.com/Yash-Bankar/Netflix-clone.git
+
+2. Visit live website
+   
+[![View Site](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge)](https://yash-bankar.github.io/Netflix-clone/)
+
+ 
+
